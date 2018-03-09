@@ -1,0 +1,439 @@
+{
+    "platform": {
+        "id": 1,
+        "name": "工作台",
+        "todoLists": [
+            {
+                "id": 1,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "18天",
+                "patchTime": "24天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "中移全通系统集成",
+                "undertakeDpt": "规划建设部",
+                "flowType": "审批表修正",
+                "state": "1"
+            },
+            {
+                "id": 2,
+                "title": "中国移动ERP合同系统集中化一期工程",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,672",
+                "relativeInfo": "北京信息科技示例公司1",
+                "undertakeDpt": "纪检监察部",
+                "flowType": "新签合同",
+                "state": "0"
+            },
+            {
+                "id": 3,
+                "title": "合同系统集中化一期工程框架",
+                "approvalTime": "<1天",
+                "patchTime": "3天",
+                "contractAmount": "1,205,673",
+                "relativeInfo": "北京信息科技示例公司2",
+                "undertakeDpt": "内审部",
+                "flowType": "补充协议",
+                "state": "2"
+            },
+            {
+                "id": 4,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "3天",
+                "patchTime": "4天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司4",
+                "undertakeDpt": "人力资源部",
+                "flowType": "合同修改",
+                "state": "1"
+            },
+            {
+                "id": 5,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司5",
+                "undertakeDpt": "产品事业部",
+                "flowType": "笔误修正",
+                "state": "0"
+            },
+            {
+                "id": 6,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "16天",
+                "patchTime": "26天",
+                "contractAmount": "1,605,661",
+                "relativeInfo": "中移全通系统集成",
+                "undertakeDpt": "规划建设部",
+                "flowType": "审批表修正",
+                "state": "1"
+            },
+            {
+                "id": 7,
+                "title": "中国移动ERP合同系统集中化一期工程",
+                "approvalTime": "6天",
+                "patchTime": "7天",
+                "contractAmount": "7,275,677",
+                "relativeInfo": "北京信息科技示例公司1",
+                "undertakeDpt": "纪检监察部",
+                "flowType": "新签合同",
+                "state": "0"
+            },
+            {
+                "id": 8,
+                "title": "合同系统集中化一期工程框架",
+                "approvalTime": "<1天",
+                "patchTime": "8天",
+                "contractAmount": "1,288,888",
+                "relativeInfo": "北京信息科技示例公司2",
+                "undertakeDpt": "内审部",
+                "flowType": "补充协议",
+                "state": "2"
+            },
+            {
+                "id": 9,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "8天",
+                "patchTime": "9天",
+                "contractAmount": "1,209,699",
+                "relativeInfo": "北京信息科技示例公司4",
+                "undertakeDpt": "人力资源部",
+                "flowType": "合同修改",
+                "state": "1"
+            },
+            {
+                "id": 10,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "9天",
+                "patchTime": "10天",
+                "contractAmount": "1,201,601",
+                "relativeInfo": "北京信息科技示例公司5",
+                "undertakeDpt": "产品事业部",
+                "flowType": "笔误修正",
+                "state": "0"
+            }
+        ],
+        "toreadLists": [
+            {
+                "id": 1,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "18天",
+                "patchTime": "24天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司1",
+                "undertakeDpt": "规划建设部",
+                "flowType": "审批表修正",
+                "state": "1"
+            },
+            {
+                "id": 2,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,672",
+                "relativeInfo": "北京信息科技示例公司2",
+                "undertakeDpt": "纪检监察部",
+                "flowType": "新签合同",
+                "state": "0"
+            },
+            {
+                "id": 3,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "patchTime": "3天",
+                "approvalTime": "1天",
+                "contractAmount": "1,205,673",
+                "relativeInfo": "北京信息科技示例公司3",
+                "undertakeDpt": "内审部",
+                "flowType": "补充协议",
+                "state": "2"
+            },
+            {
+                "id": 4,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "1天",
+                "patchTime": "4天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司4",
+                "undertakeDpt": "人力资源部",
+                "flowType": "合同修改",
+                "state": "1"
+            },
+            {
+                "id": 5,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司5",
+                "undertakeDpt": "产品事业部",
+                "flowType": "笔误修正",
+                "state": "0"
+            }
+        ],
+        "todoneLists": [
+            {
+                "id": 1,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "18天",
+                "patchTime": "24天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司1",
+                "undertakeDpt": "规划建设部",
+                "flowType": "审批表修正",
+                "state": "1"
+            },
+            {
+                "id": 2,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,672",
+                "relativeInfo": "北京信息科技示例公司2",
+                "undertakeDpt": "纪检监察部",
+                "flowType": "新签合同",
+                "state": "0"
+            },
+            {
+                "id": 3,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "patchTime": "3天",
+                "approvalTime": "1天",
+                "contractAmount": "1,205,673",
+                "relativeInfo": "北京信息科技示例公司3",
+                "undertakeDpt": "内审部",
+                "flowType": "补充协议",
+                "state": "2"
+            },
+            {
+                "id": 4,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "1天",
+                "patchTime": "4天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司4",
+                "undertakeDpt": "人力资源部",
+                "flowType": "合同修改",
+                "state": "1"
+            },
+            {
+                "id": 5,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司5",
+                "undertakeDpt": "产品事业部",
+                "flowType": "笔误修正",
+                "state": "0"
+            }
+        ],
+        "donereadLists": [
+            {
+                "id": 1,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "18天",
+                "patchTime": "24天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司1",
+                "undertakeDpt": "规划建设部",
+                "flowType": "审批表修正",
+                "state": "1"
+            },
+            {
+                "id": 2,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,672",
+                "relativeInfo": "北京信息科技示例公司2",
+                "undertakeDpt": "纪检监察部",
+                "flowType": "新签合同",
+                "state": "0"
+            },
+            {
+                "id": 3,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "patchTime": "3天",
+                "approvalTime": "1天",
+                "contractAmount": "1,205,673",
+                "relativeInfo": "北京信息科技示例公司3",
+                "undertakeDpt": "内审部",
+                "flowType": "补充协议",
+                "state": "2"
+            },
+            {
+                "id": 4,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "1天",
+                "patchTime": "4天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司4",
+                "undertakeDpt": "人力资源部",
+                "flowType": "合同修改",
+                "state": "1"
+            },
+            {
+                "id": 5,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "approvalTime": "2天",
+                "patchTime": "5天",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "北京信息科技示例公司5",
+                "undertakeDpt": "产品事业部",
+                "flowType": "笔误修正",
+                "state": "0"
+            }
+        ]
+    },
+    "approvalMgt": {
+        "id": 2,
+        "name": "审批管理",
+        "subItem": {
+            "approvalTodo": {
+                "name": "代办历史",
+                "approvalTodoList": [
+                    {
+                        "id": 1,
+                        "userName": "张三",
+                        "todoTime": "2018年01月01日-2018年02月01日"
+                    },
+                    {
+                        "id": 2,
+                        "userName": "李四",
+                        "todoTime": "2018年02月01日-2018年03月01日"
+                    },
+                    {
+                        "id": 3,
+                        "userName": "王五",
+                        "todoTime": "2018年03月01日-2018年04月01日"
+                    },
+                    {
+                        "id": 4,
+                        "userName": "赵六",
+                        "todoTime": "2018年04月01日-2018年05月01日"
+                    },
+                    {
+                        "id": 5,
+                        "userName": "小七",
+                        "todoTime": "2018年05月01日-2018年06月01日"
+                    }
+                ]
+            },
+            "approvalLanguage": {
+                "name": "审批常用语",
+                "approvalLanguageList": [
+                    "同意",
+                    "不同意",
+                    "阅",
+                    "已阅",
+                    "请重拟",
+                    "请***阅后发",
+                    "请***签发",
+                    "请***领导阅研",
+                    "请***核批",
+                    "请***办理",
+                    "请***提出意见"
+                ]
+            }
+        }
+    },
+    "contractInquiry": {
+        "id": 3,
+        "name": "合同查询",
+        "dataList": [
+            {
+                "id": 1,
+                "title": "中国移动ERP合同系统集中化一期工程框架合同管理系统",
+                "serialNum": "ADF13689370100071",
+                "contractNo": "CLFBXD20171000871",
+                "contractAmount": "1,205,671",
+                "relativeInfo": "中移全通系统集成",
+                "undertakeDpt": "规划建设部",
+                "contractor": "张三",
+                "contractNature": "新签合同",
+                "state": "spz",
+                "stateName": "审批中"
+            },
+            {
+                "id": 2,
+                "title": "中国移动ERP合同系统集中化一期工程框架",
+                "serialNum": "ADF13689370100072",
+                "contractNo": "CLFBXD20171000872",
+                "contractAmount": "1,205,672",
+                "relativeInfo": "中移全通系统集成",
+                "undertakeDpt": "人力资源部",
+                "contractor": "李四",
+                "contractNature": "补充协议",
+                "state": "ybj",
+                "stateName": "已办结"
+            },
+            {
+                "id": 3,
+                "title": "ERP合同系统集中化一期工程框架合同管理系统",
+                "serialNum": "ADF13689370100073",
+                "contractNo": "CLFBXD20171000873",
+                "contractAmount": "1,205,673",
+                "relativeInfo": "中移全通系统集成",
+                "undertakeDpt": "工程建设部",
+                "contractor": "王五",
+                "contractNature": "批量合同",
+                "state": "lxz",
+                "stateName": "履行中"
+            },
+            {
+                "id": 4,
+                "title": "中国移动ERP合同系统集中化一期工程",
+                "serialNum": "ADF13689370100074",
+                "contractNo": "CLFBXD20171000874",
+                "contractAmount": "1,205,674",
+                "relativeInfo": "中移全通系统集成",
+                "undertakeDpt": "产品事业部",
+                "contractor": "赵六",
+                "contractNature": "审批表修正",
+                "state": "bgz",
+                "stateName": "变更中"
+            },
+            {
+                "id": 5,
+                "title": "中国移动ERP合同系统集中化",
+                "serialNum": "ADF13689370100075",
+                "contractNo": "CLFBXD20171000875",
+                "contractAmount": "1,205,675",
+                "relativeInfo": "中移全通系统集成",
+                "undertakeDpt": "产品事业部",
+                "contractor": "周云薇",
+                "contractNature": "笔误修正",
+                "state": "lxz",
+                "stateName": "履行中"
+            }
+        ]
+    },
+    "statisticalReport": {
+        "id": 4,
+        "name": "统计报表",
+        "data": {
+            "name": "中国移动政企分公司",
+            "subItem": {
+                "department": [
+                    {
+                        "id": 1,
+                        "name": "客户服务部"
+                    },
+                    {
+                        "id": 2,
+                        "name": "党群工作部"
+                    },
+                    {
+                        "id": 3,
+                        "name": "财务部"
+                    },
+                    {
+                        "id": 4,
+                        "name": "安全保障部"
+                    }
+                ]
+            }
+        }
+    }
+}
